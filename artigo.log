@@ -1,0 +1,64 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020/Debian) (preloaded format=pdflatex 2021.11.2)  2 NOV 2021 12:22
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**artigo.tex
+(./artigo.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-01-09> xparse <2020-03-03>
+
+! LaTeX Error: File `IEEEtran.cls' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: cls)
+
+Enter file name: aaaaaaaaaaaaaaaaaa.pdf
+
+! LaTeX Error: File `aaaaaaaaaaaaaaaaaa.pdf' not found.
+
+Type X to quit or <RETURN> to proceed,
+or enter new name. (Default extension: pdf)
+
+Enter file name: artigo.tex
+(./artigo.tex
+
+! LaTeX Error: Two \documentclass or \documentstyle commands.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.52 \documentclass[10pt,journal,compsoc]{
+                                          IEEEtran}
+? ^^[[B
+Type <return> to proceed, S to scroll future error messages,
+R to run without stopping, Q to run quietly,
+I to insert something, E to edit your file,
+1 or ... or 9 to ignore the next 1 to 9 tokens of input,
+H for help, X to quit.
+? 
+! Interruption.
+\GenericError  ...                                
+                                                  \endgroup 
+l.52 \documentclass[10pt,journal,compsoc]{
+                                          IEEEtran}
+? 
+! Undefined control sequence.
+l.91 \ifCLASSOPTIONcompsoc
+                          
+? 
+! Emergency stop.
+l.91 \ifCLASSOPTIONcompsoc
+                          
+End of file on the terminal!
+
+ 
+Here is how much of TeX's memory you used:
+ 29 strings out of 481252
+ 555 string characters out of 5915888
+ 266279 words of memory out of 5000000
+ 17064 multiletter control sequences out of 15000+600000
+ 403430 words of font info for 27 fonts, out of 8000000 for 9000
+ 14 hyphenation exceptions out of 8191
+ 38i,0n,46p,120b,14s stack positions out of 5000i,500n,10000p,200000b,80000s
+!  ==> Fatal error occurred, no output PDF file produced!
