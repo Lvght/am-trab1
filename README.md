@@ -3,4 +3,4 @@
 
 Os dados utilizados foram extraídos das seguintes fontes:
 - Student data
-https://archive.ics.uci.edu/ml/machine-learning-databases/00467/
+https://archive.ics.uci.edu/ml/machine-learning-databases/00320/
